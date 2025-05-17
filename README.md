@@ -55,26 +55,7 @@ csharp
 Copy
 Edit
 Today is a beautiful morning and the
-🔧 How to Run
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/next-word-lstm.git
-cd next-word-lstm
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the notebook:
-
-bash
-Copy
-Edit
-jupyter notebook Next_word_LSTM.ipynb
 🧾 Requirements
 Python 3.x
 
